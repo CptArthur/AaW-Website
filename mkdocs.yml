@@ -1,0 +1,9 @@
+site_name: Ares at War
+nav:
+  - What is it?: index.md
+  - Shipyard System: Shipyard System.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate  # Enables dark mode
